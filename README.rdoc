@@ -1,6 +1,6 @@
 == Beaver, chewing through logs to make something useful
 
-Beaver is a light DSL and command line utility for parsing HTTP and Rails production logs back into usable data. It answers questions like:
+Beaver is a light DSL and command line utility for parsing HTTP and Rails production logs back into usable data. It answers questions like. [http://www.drogfakta.se/ Friskare liv]:
 
 * How many failed logins have there been today? Were they for the same user? From the same IP?
 * How many 500, 404, etc. errors yesterday? On what pages?
